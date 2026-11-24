@@ -1,0 +1,48 @@
+{
+  "company": {
+    "name": "VITZROCELL Co., Ltd.",
+    "address": "70, Indeoseupakeu-ro, Hapdeok-eup, Dangjin-si, Chungcheongnam-do, Republic of Korea",
+    "tel": "+82-41-332-8642",
+    "web": "https://www.vitzrocell.com",
+    "email": "overseas@vitzrocell.com",
+    "euRep": "",
+    "dueDiligenceUrl": "",
+    "takebackUrl": ""
+  },
+  "models": [
+    {
+      "id": "FAT D-HR 150 10S PACK",
+      "partNo": "HLFD15B00002",
+      "name": "High-rate high-temperature Li/SOCl2 battery pack, 36.0 V 38.0 Ah",
+      "category": "Industrial battery (< 2 kWh)",
+      "chemistry": "Li/SOCl2 (Lithium / Thionyl Chloride)",
+      "rechargeable": false,
+      "configuration": "10S1P",
+      "cellModel": "FAT D size, Li/SOCl2 38 Ah × 10",
+      "voltage": "36.0 V",
+      "capacity": "38.0 Ah (at 580 mA, 100 ℃, 20.0 V cut-off)",
+      "energy": "1,368 Wh",
+      "weight": "4,480 g (nominal)",
+      "dischargeCurrent": "580 mA",
+      "maxDischargeCurrent": "2,000 mA (continuous, recommended)",
+      "endVoltage": "20.0 V",
+      "operatingTemp": "-40 ~ 150 ℃",
+      "dimensions": "Ø53.23 × L958.21 mm",
+      "connector": "Micro-D 21P / 21S",
+      "intendedUse": "Oil & Gas applications: Measurement While Drilling (MWD), Pipeline Inspection Gauge (PIG), production well reserve monitoring, oceanographic devices",
+      "placeOfManufacture": "Made in Korea (Dangjin, Republic of Korea)",
+      "dateOfManufacture": "See date code on battery label",
+      "hazardous": "N/D",
+      "crm": "Li, Ga",
+      "extinguishing": "Class D",
+      "lifetime": "",
+      "image": "docs/HLFD15B00002_outline.png",
+      "docs": {
+        "doc": "docs/HLFD15B00002_EU_DoC.pdf",
+        "sds": "docs/HLFD15B00002_SDS.pdf",
+        "un383": "docs/HLFD15B00002_UN38.3_Test_Summary.pdf"
+      },
+      "updated": "2026-11-24"
+    }
+  ]
+}
